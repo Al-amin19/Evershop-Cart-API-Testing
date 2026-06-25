@@ -9,7 +9,6 @@ The project includes:
 
 * Postman Collection
 * API Test Cases (Excel)
-* API Request and Response Validation
 
 ## Tools Used
 
